@@ -6,7 +6,8 @@ Acceptance criteria:
 Response should include:-  
 #### 1. Name= "Carbon credits"
 #### 2. CanRelist="true"
-#### 3. The Promotions element with Name = "Gallery" has a Description that containts the test "2x larger image"
+#### 3. The Promotions element with Name = "Gallery" has a Description that containts the test "2x larger image"  
+*Please note the sysout statement in the project are only for assesment purpose.
 
 ## Prerequisite to execute the test-  
 1. Make sure TestNG plugin is installed(in your IDE).  
